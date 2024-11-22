@@ -1,0 +1,11 @@
+{
+    "version": "v0.0.1",
+    "notes": "WebCore - AztekMX",
+    "pub_date": "2021-09-01T00:00:00Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTnlJbGxVVm5Pd0FSWndvWENYQWNqeG5uZFpwNjlNc0R1RU13eGpVVUtYTitMdHF0eHdiRCtMaVQ1R2tabDkrN2JwdzE4dE1kcWJBS3hBS3dyVlZQTE5IRnNLcmdMa0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMzE5MzcwCWZpbGU6QXp0ZWtNWF8wLjAuMV94NjQtc2V0dXAuZXhlCkVBMXNkZTlOc1JaTE1zOXhjZ2JYZUlTV2ZJdUs1YVJDSTZVeDlSSTFCeXdRaTJrd05JYnhmQWk2UThBalE5YWFsNWl0bTBFYVVQZFVJZXl2bXFEb0JBPT0K",
+        "url": "https://github.com/Aztek-MX/webcore-updater/releases/download/v0.0.1/AztekMX_0.0.1_x64-setup.exe"
+      }
+    }
+  }
